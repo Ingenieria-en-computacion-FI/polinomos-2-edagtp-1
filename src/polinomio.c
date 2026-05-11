@@ -15,7 +15,7 @@
 #include <stdlib.h>
 #include <math.h>
 #include <string.h>
-#include "polinomio.h"
+#include "../include/polinomio.h"
 
 /* ═══════════════════════════════════════════════════════════════════════════
  *  LISTA
